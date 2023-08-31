@@ -1,2 +1,2 @@
-# skinblox
- SkinBlox
+# SkinBlox - Skin Maker for Roblox
+
